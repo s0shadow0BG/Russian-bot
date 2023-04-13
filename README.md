@@ -2,7 +2,7 @@
 
 Welcome to the official russian-bot page.
 
-#Description
+# Description
 
 This bot is full of interesting commands that are made to improve the normal discord commands and make any server better.
 
